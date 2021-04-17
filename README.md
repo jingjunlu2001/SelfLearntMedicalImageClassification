@@ -1,1 +1,3 @@
 # SelfLearntMedicalImageClassification
+Medical images are used widely by clinicians for monitoring, diagnosis, and grading of diseases. In the project, we used the deep learning and image processing methods for
+unsupervised and semi-supervised image clustering, which will be applied to thoracic x-ray annotation, classification and CT based measurement for accidental findings distinguished from normal CTs. We applied these technologies to 2 datasets - BRATS17 brain tumor image dataset (https://www.med.upenn.edu/sbia/brats2017/registration.html) and DeepLesion dataset (https://nihcc.app.box.com/v/DeepLesion).
